@@ -5,9 +5,5 @@
 **Lesson:** 15 - Lab: Terraform Providers
 
 ---
+https://utlabs.kodekloud.com/topic/lab-terraform-providers-3/
 
-## Notes
-
-- Objectives:
-- Resources:
-- Tasks:

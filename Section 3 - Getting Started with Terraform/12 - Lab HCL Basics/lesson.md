@@ -6,8 +6,5 @@
 
 ---
 
-## Notes
-
-- Objectives:
-- Resources:
-- Tasks:
+Access the labs here:
+https://utlabs.kodekloud.com/topic/lab-hcl-basics-3/
