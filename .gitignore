@@ -14,10 +14,6 @@ crash.log
 .terraformrc
 terraform.rc
 
-# Sensitive variable files
-*.tfvars
-*.tfvars.json
-
 # Override files (local)
 override.tf
 override.tf.json
