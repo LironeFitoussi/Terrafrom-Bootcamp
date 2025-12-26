@@ -1,0 +1,1 @@
+https://utlabs.kodekloud.com/topic/lab-resource-attributes-3/

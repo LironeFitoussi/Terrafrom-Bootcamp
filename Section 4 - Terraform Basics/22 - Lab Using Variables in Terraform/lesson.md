@@ -1,0 +1,1 @@
+https://utlabs.kodekloud.com/topic/lab-using-variables-in-terraform-3/
