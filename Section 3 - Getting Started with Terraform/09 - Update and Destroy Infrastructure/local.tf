@@ -1,5 +1,5 @@
 resource "local_file" "pet" {
-  filename = "/root/pets.txt"
+  filename = "./pets.txt"
   content  = "We love pets!"
   file_permission = "0700"
 }
